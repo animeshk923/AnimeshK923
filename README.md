@@ -15,7 +15,7 @@ Some of the achievements which I take pride in are:
 5. Wrote a script which validates embedded examples in `asyncapi.md` file _(Link: https://github.com/asyncapi/spec/pull/1059)_
 6. Reviewed technical documentation across various repositories.
 
-_More of the merged PRs can be found [here](https://github.com/pulls?q=is%3Apr+author%3AAnimeshKumar923+archived%3Afalse+is%3Aclosed+org%3Aasyncapi+is%3Amerged)_
+_More of the merged PRs can be found [here](https://github.com/pulls?q=is%3Apr+author%3AAnimeshK923+archived%3Afalse+is%3Aclosed+org%3Aasyncapi+is%3Amerged)_
 
 - 🔭 I’m currently working on varoius repositories under [AsyncAPI Initiative](https://github.com/asyncapi/)
 - 🌱 I’m currently learning JavaScript
