@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Animesh.
 
-- I'm a Senior university student who likes to learn new technologies, build projects and contribute to open source software.
+- I like to learn new technologies, build projects and contribute to open source software.
 - Currently I'm learning technologies which will help me become a Full-Stack Web App Developer.
 - I try to implement my learning through projects and open source contributions.
 
